@@ -1,0 +1,13 @@
+body {
+    margin: auto;
+    text-align: center;
+    font-family: monospace;
+    font-weight: 300;
+}
+.kitten-photo  {
+    width: 40%;
+    height: 60%;
+}
+p {
+    font-size: 15px;
+}
